@@ -67,5 +67,8 @@ class program
         mstf.PriceChanged += logger.OnPriceChanged;
 
         mstf.Price = 105;
+        mstf.Price = 110;
+
+
     }
 }
